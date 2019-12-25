@@ -20,7 +20,9 @@ The core of the game is in the new_snake.py file, which uses the following comma
 
 
 ## Results
-The maximum score achieved by our model was 38.  We have used the following parameters: However, I believe it can be boosted a lot more
+The maximum score achieved by our model was 38.  We have used the following parameters:
+
+
 |learning rate  |0.004 |
 |---------------|------|
 |discount factor|0.95  |
