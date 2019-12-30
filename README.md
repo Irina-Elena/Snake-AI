@@ -34,4 +34,4 @@ The maximum score achieved by our model was 38.  We have used the following para
 |epsilon decay  |0.9999|
 
 
-The file model_antrenat.h5.png contains a chart which displays the some experimental results made during the test phase.
+The file trained_model.h5.png contains a chart that displays some experimental results made during the test phase.
