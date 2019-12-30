@@ -151,7 +151,7 @@ def process_state(state):
 
 def test():
     game = Snake(600, 600)
-    p = PLE(game, fps=60, state_preprocessor=process_state, force_fps=False, display_screen=True,frame_skip = 2,
+    p = PLE(game, fps=60, state_preprocessor=process_state, force_fps=True, display_screen=True,frame_skip = 2,
             reward_values={"positive": 100.0,
                            "negative": -50.0,
                            "tick": -0.1,
@@ -235,6 +235,7 @@ def train():
 if __name__ == '__main__':
     if sys.argv[6] == "test":
         scores = test()
+        scores = list(map(lambda x:x//100,scores))
         print(max(scores))
         plt.plot(scores)
         plt.savefig(sys.argv[3] + ".png")

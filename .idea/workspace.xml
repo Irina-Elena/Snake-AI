@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1476079-f937-491b-b362-7575114b4e70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyGame-Learning-Environment" beforeDir="false" afterPath="$PROJECT_DIR$/PyGame-Learning-Environment" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyGame-Learning-Environment/ple/games/base/pygamewrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGame-Learning-Environment/ple/games/base/pygamewrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_antrenat.h5" beforeDir="false" afterPath="$PROJECT_DIR$/trained_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_snake.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +17,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new_snake.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="237" column="41" selection-start-line="237" selection-start-column="41" selection-end-line="237" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,7 +51,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/../../../.." value="master" />
@@ -54,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -65,6 +82,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,7 +94,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grafice.py" />
+      <option name="SCRIPT_NAME" value="E:\info\Facultate\Anul3\Semestru1\RN\proiect_rn\charts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +260,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16122234" />
@@ -392,7 +409,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/random_new_model.h5" />
-    <entry file="file://$PROJECT_DIR$/model_antrenat.h5">
+    <entry file="file://$PROJECT_DIR$/trained_model.h5">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/another_random.h5" />
@@ -402,13 +419,6 @@
     <entry file="file://$PROJECT_DIR$/random_from_irina_new_snake.h5.png" />
     <entry file="file://$PROJECT_DIR$/random.h5" />
     <entry file="file://$PROJECT_DIR$/random_newscript.h5" />
-    <entry file="file://$PROJECT_DIR$/grafice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/agent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -431,10 +441,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script.py" />
     <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/new_snake.py">
+    <entry file="file://$PROJECT_DIR$/charts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="191" column="96" selection-start-line="191" selection-start-column="96" selection-end-line="191" selection-end-column="96" />
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="237" column="41" selection-start-line="237" selection-start-column="41" selection-end-line="237" selection-end-column="41" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
