@@ -8,7 +8,7 @@ The project used the Python Learning Environment in order to display the graphic
 
 
 # Requirements
-The project was made using Python Learning Environment, Numpy and Keras.
+The project was made using Python 3.7, Python Learning Environment, Numpy and Keras.
 The core of the game is in the new_snake.py file, which uses the following command line arguments:
 * the learning rate hyperparameter used by the neural network
 * gamma parameter used by the agent
@@ -32,3 +32,6 @@ The maximum score achieved by our model was 38.  We have used the following para
 |memory buffer  |500000|
 |epsilon        |0.99  |
 |epsilon decay  |0.9999|
+
+
+The file model_antrenat.h5.png contains a chart which displays the some experimental results made during the test phase.
