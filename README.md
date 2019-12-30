@@ -24,7 +24,6 @@ The maximum score achieved by our model was 38.  We have used the following para
 
 
 |learning rate  |0.004 |
-|---------------|------|
 |discount factor|0.95  |
 |activation#1   |linear|
 |activation#2   |linear|
