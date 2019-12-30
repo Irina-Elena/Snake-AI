@@ -5,7 +5,13 @@ The brain of the game was built using Neural Networks and Reinforcement Learning
 The project used the Python Learning Environment in order to display the graphics of the game, and to build the vision of the snake, or what the snake sees.
 
 
-
+# State & Neural Network
+Our neural network received as input a bunch o states in order to predict the next best action.
+We have considered that a state should contain the following items:
+* x coordinate of head
+* y coordinate of head
+* x coordinate of apple
+* y coordinate of apple
 
 # Requirements
 The project was made using Python 3.7, Python Learning Environment, Numpy and Keras.
